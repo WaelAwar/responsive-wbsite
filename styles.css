@@ -611,18 +611,19 @@ footer ul li a:hover {
   .testimonial__body {
     padding: 1.2rem;
   }
-}
 
-.footer__container {
-  grid-template-columns: 1fr;
-  text-align: center;
-  gap: 2rem;
-}
 
-.footer__1 p {
-  margin: 1rem auto;
-}
+  .footer__container {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: 2rem;
+  }
 
-.footer__socials {
-  justify-content: center;
+  .footer__1 p {
+    margin: 1rem auto;
+  }
+
+  .footer__socials {
+    justify-content: center;
+  }
 }
